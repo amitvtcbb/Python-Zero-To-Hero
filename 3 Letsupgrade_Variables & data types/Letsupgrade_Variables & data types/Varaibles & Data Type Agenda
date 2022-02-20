@@ -1,0 +1,38 @@
+Variables
+# Variable is a location memory used to store some data.
+
+
+Variable Assignments
+Multiple Assignments
+Storage Locations
+Data Types
+# every value in python has a datatype
+
+Numbers
+Boolean
+Python Strings
+# string is a sequence of unicode chara char...
+# Use single quote or double quote to reprsent string
+Python List
+# Ordered sequence of items
+# list is mutable
+# item seprated by commas are enclosed  within brackets []
+
+Python Tuple
+# Ordered sequence of items same as list
+
+Python Set
+# Set is an unordere collection of items
+
+Python Dictionary
+# Dict is an unordered collection of key-value pairs.
+
+Conversion between Datatypes
+Operators
+==, =, >, <, =>, <=
+Keywords & Arguments
+>>> import keyword
+>>> keyword.kwlist
+['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+Comments
+#

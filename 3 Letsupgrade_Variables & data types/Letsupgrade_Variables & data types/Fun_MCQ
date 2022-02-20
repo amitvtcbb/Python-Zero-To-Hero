@@ -1,0 +1,81 @@
+1. Which statement is correct?
+
+A. List is immutable && Tuple is mutable
+B. List is mutable && Tuple is immutable
+C. Both are Mutable.
+D. Both are Immutable
+b
+
+2. Suppose a list with name arr, contains 5 elements.
+You can get the 2nd element from the list using:
+
+A. arr[-2]
+B. arr[2]
+C. arr[-1]
+D. arr[1]
+d
+
+3. How to get last element of list in python?
+ Suppose we have list with name arr, contains 5 elements.
+
+A. arr[0]
+B. arr[5]
+C. arr[last]
+D. arr[-1]
+d
+
+4. Suppose a tuple arr contains 10 elements.
+How can you set the 5th element of the tuple to 'Hello'?
+
+A. arr[4] = 'Hello'
+B. arr(4) = 'Hello'
+C. arr[5] = 'Hello'
+D. Elements of tuple cannot be changed
+D
+
+5. What type of data is: arr = [(1,1),(2,2),(3,3)]?
+
+A. Array of tuples
+B. Tuples of lists
+C. List of tuples
+D. Invalid type
+
+c
+
+6. Can tuple be used as dictionary key in python?
+
+A. True
+B. False
+C. Tuple is not used in python
+D. None of the above
+a
+
+7. Which one of the following is mutable data type?
+
+A. set
+B. int
+C. str
+D. tuple
+b
+
+8. Which one of the following is immutable data type?
+
+A. list
+B. set
+C. int
+D. dict
+b
+
+9. What is the output of the following code?
+aTuple = (100, 200, 300, 400, 500)
+aTuple[1] = 800
+print(aTuple)
+error
+
+10  What is the output of the following code?
+
+lst = [1,2,3,4,5]
+lst[2] = 6
+print(lst)
+
+[1,2,6,4,5]
