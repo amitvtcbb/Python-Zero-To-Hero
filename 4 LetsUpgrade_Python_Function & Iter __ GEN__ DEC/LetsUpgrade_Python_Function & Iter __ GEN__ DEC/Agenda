@@ -1,0 +1,44 @@
+# Python Function
+# Python Lambda function
+# Python Decorator
+# Python Iterator & Genrator
+# Fun MCQ
+
+# Python Function :
+Function is a group related statmenets  that specific task
+
+Syntax:
+
+def function_name(parameters):
+    """
+        doc string
+    """
+
+    statement(s)
+
+# def - keyword
+# parameters(arguments)  - which we pass to value to a function
+# : mark end of function header
+# Doc string - documentation string
+# statement(s) - return statement to return the value from the function
+
+# return statement:
+return statement is used to exit a function  and go back to the place
+from where it was called.
+
+Syntax:
+    return (expression )
+
+
+# Python Lambda function
+ lambda function which is also called the anonymous function
+Syntax
+ lambda: arguments: expression
+
+ # lambda - keyword
+ # arguments - function will recieve
+ # expression - whose result is the return value of the function
+
+# Python Decorator
+# Decorator - Can be thought of as function which modify the functionlity
+of another function

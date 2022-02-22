@@ -1,0 +1,12 @@
+3. What will be the output of the following Python code?
+	1	def printMax(a, b):
+	2	    if a > b:
+	3	        print(a, 'is maximum')
+	4	    elif a == b:
+	5	        print(a, 'is equal to', b)
+	6	    else:
+	7	        print(b, 'is maximum')
+	8	printMax(3, 4)
+	9
+
+
